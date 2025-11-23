@@ -1,0 +1,245 @@
+[
+  {
+    "cards": [
+      {
+        "nome": "Taylor Swift",
+        "descricao": "Taylor Swift é uma cantora, compositora, produtora musical, diretora e empresária americana. Conhecida por suas composições narrativas que geralmente concentram-se em sua vida pessoal, ao qual recebem ampla cobertura midiática.",
+        "link": "https://www.taylorswift.com",
+        "picture": "https://ia903204.us.archive.org/35/items/taylor-swift_202511/taylor-swift.png"
+      },
+      {
+        "nome": "Taylor Swift",
+        "descricao": "Taylor Swift é o álbum de estreia da cantora e compositora estadunidense Taylor Swift, lançado em 24 de outubro de 2006.",
+        "link": "https://tserasarchive.taylorswift.com/selftitled",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/3/3e/Taylor_Swift_%C3%81lbum.jpg"
+      },
+      {
+        "nome": "Fearless",
+        "descricao": "Fearless é o segundo álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 11 de novembro de 2008.",
+        "link": "https://tserasarchive.taylorswift.com/fearless",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/7/75/Taylor_Swift_-_Fearless.jpg"
+      },
+      {
+        "nome": "Speak Now",
+        "descricao": "Speak Now é o terceiro álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 25 de outubro de 2010.",
+        "link": "https://tserasarchive.taylorswift.com/speaknow",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/0/00/Taylor_Swift_-_Speak_Now.jpg"
+      },
+      {
+        "nome": "Red",
+        "descricao": "Red é o quarto álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 22 de outubro de 2012.",
+        "link": "https://tserasarchive.taylorswift.com/red",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/e/e8/Taylor_Swift_-_Red.png"
+      },
+      {
+        "nome": "1989",
+        "descricao": "1989 é o quinto álbum de estúdio da cantora e compositora estadundense Taylor Swift, lançado em 27 de outubro de 2014.",
+        "link": "https://tserasarchive.taylorswift.com/1989",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/c/c3/1989_de_Taylor_Swift.jpg"
+      },
+      {
+        "nome": "Reputation",
+        "descricao": "Reputation é o sexto álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 10 de novembro de 2017.",
+        "link": "https://tserasarchive.taylorswift.com/reputation",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Reputation_-_Taylor_Swift.png"
+      },
+      {
+        "nome": "Lover",
+        "descricao": "Lover é o sétimo álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 23 de agosto de 2019.",
+        "link": "https://tserasarchive.taylorswift.com/lover",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/1/19/Capa_de_Lover_por_Taylor_Swift_%282019%29.png"
+      },
+      {
+        "nome": "Folklore",
+        "descricao": "Folklore é o oitavo álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 24 de julho de 2020.",
+        "link": "https://tserasarchive.taylorswift.com/folklore",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/f/f8/Taylor_Swift_-_Folklore.png"
+      },
+      {
+        "nome": "Evermore",
+        "descricao": "Evermore é o nono álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 11 de dezembro de 2020.",
+        "link": "https://tserasarchive.taylorswift.com/evermore",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/4/4f/Evermore_-_Taylor_Swift.png"
+      },
+      {
+        "nome": "Midnights",
+        "descricao": "Midnights é o décimo segundo álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 21 de outubro de 2022.",
+        "link": "https://tserasarchive.taylorswift.com/midnights",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Midnights_-_Taylor_Swift.png"
+      },
+      {
+        "nome": "The Tortured Poets Department",
+        "descricao": "The Tortured Poets Department é o décimo quinto álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 19 de abril de 2024. O álbum foi expandido em um álbum duplo, com o segundo volume com o subtítulo The Anthology lançado de surpresa no mesmo dia.",
+        "link": "https://tserasarchive.taylorswift.com/ttpd",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/4e/The_Tortured_Poets_Department.jpg/330px-The_Tortured_Poets_Department.jpg"
+      },
+      {
+        "nome": "The Life of a Showgirl",
+        "descricao": "The Life of a Showgirl é o décimo sexto álbum de estúdio da cantora e compositora estadunidense Taylor Swift, lançado em 3 de outubro de 2025.",
+        "link": "https://tserasarchive.taylorswift.com/thelifeofashowgirl",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/2/2d/The_Life_of_a_Showgirl.png"
+      },
+      {
+        "nome": "Fearless Taylor's Version",
+        "descricao": "Fearless Taylor's Version é o décimo álbum de estúdio e primeira regravação da cantora e compositora estadunidense Taylor Swift, lançado em 9 de abril de 2021.",
+        "link": "https://tserasarchive.taylorswift.com/fearlesstv",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/e/ee/Fearless_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "nome": "Red Taylor's Version",
+        "descricao": "Red Taylor's Version é o décimo primeiro álbum de estúdio e segunda regravação da cantora e compositora estadunidense Taylor Swift, lançado em 12 de novembro de 2021.",
+        "link": "https://tserasarchive.taylorswift.com/redtv",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Red_%28Taylor%27s_Version%29.png/330px-Red_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "nome": "Speak Now Taylor's Version",
+        "descricao": "Speak Now Taylor's Version é o décimo terceiro álbum de estúdio e terceira regravação da cantora e compositora estadunidense Taylor Swift, lançado em 7 de julho de 2023.",
+        "link": "https://tserasarchive.taylorswift.com/speaknowtv",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Speak_Now_%28Taylor%27s_Version%29.png/330px-Speak_Now_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "nome": "1989 Taylor's Version",
+        "descricao": "1989 Taylor's Version é o décimo quarto álbum de estúdio e quarta regravação da cantora e compositora estadunidense Taylor Swift, lançado em 27 de outubro de 2023.",
+        "link": "https://tserasarchive.taylorswift.com/1989tv",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/2/2f/1989_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "nome": "Taylor's Version",
+        "descricao": "Taylor's Version refere-se às regravações dos primeiros seis álbuns de estúdio de Taylor Swift, que ela relançou para ter os direitos de propriedade sobre as gravações originais.",
+        "link": "https://pt.wikipedia.org/wiki/Disputa_das_grava%C3%A7%C3%B5es_originais_de_Taylor_Swift"
+      },
+      {
+        "nome": "Fearless Tour",
+        "descricao": "The Fearless Tour foi a primeira turnê da cantora e compositora estadunidense Taylor Swift, em apoio ao seu segundo álbum de estúdio, Fearless. A turnê começou em 23 de abril de 2009 e terminou em 10 de julho de 2010, com 105 shows em 6 países. A turnê foi filmada e lançada como um DVD intitulado Taylor Swift: Journey to Fearless, contando com entrevistas e bastidores.",
+        "link": "https://pt.wikipedia.org/wiki/Fearless_Tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/2/28/FearlessTour.jpg"
+      },
+      {
+        "nome": "Speak Now World Tour",
+        "descricao": "The Speak Now World Tour foi a segunda turnê da cantora e compositora estadunidense Taylor Swift, em apoio ao seu terceiro álbum de estúdio, Speak Now. A turnê começou em 9 de fevereiro de 2011 e terminou em 18 de março de 2012, com 111 shows em 17 países. A turnê foi filmada e lançada como um DVD e CD intitulado Taylor Swift: Speak Now World Tour Live, contando com performances ao vivo e bastidores. A versão brasileira possui uma versão exclusiva do single 'Long Live' com participação da cantora Paula Fernandes.",
+        "link": "https://pt.wikipedia.org/wiki/Speak_Now_World_Tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/8/89/Taylor_Swift_-_Speak_Now_World_Tour.jpg"
+      },
+      {
+        "nome": "The Red Tour",
+        "descricao": "The Red Tour foi a terceira turnê da cantora e compositora estadunidense Taylor Swift, em apoio ao seu quarto álbum de estúdio, Red. A turnê começou em 13 de março de 2013 e terminou em 12 de junho de 2014, com 86 shows em 12 países.",
+        "link": "https://pt.wikipedia.org/wiki/The_Red_Tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/f/fc/Red_Tour.png"
+      },
+      {
+        "nome": "The 1989 World Tour",
+        "descricao": "The 1989 World Tour foi a quarta turnê da cantora e compositora estadunidense Taylor Swift, em apoio ao seu quinto álbum de estúdio, 1989. A turnê começou em 5 de maio de 2015 e terminou em 12 de dezembro de 2015, com 85 shows em 10 países. A turnê foi filmada em Sydney, Austrália e distribuida pela Apple Music intitulado Taylor Swift: The 1989 World Tour Live, contando com performances ao vivo.",
+        "link": "https://pt.wikipedia.org/wiki/The_1989_World_Tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/1/12/The_1989_World_Tour_Poster.png"
+      },
+      {
+        "nome": "Reputation Stadium Tour",
+        "descricao": "The Reputation Stadium Tour foi a quinta turnê da cantora e compositora estadunidense Taylor Swift, em apoio ao seu sexto álbum de estúdio, Reputation. A turnê começou em 8 de maio de 2018 e terminou em 21 de novembro de 2018, com 53 shows em 7 países.",
+        "link": "https://pt.wikipedia.org/wiki/Reputation_Stadium_Tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/0/0b/P%C3%B4ster_de_Reputation_Stadium_Tour.png"
+      },
+      {
+        "nome": "The Eras Tour",
+        "descricao": "The Eras Tour é a sexta turnê mundial da cantora e compositora estadunidense Taylor Swift, em apoio aos seus álbuns de estúdio. O show apresenta uma produção grandiosa, figurinos icônicos e um setlist que abrange mais de 40 canções. A turnê começou em 17 de março de 2023, terminando em 8 de dezembro de 2024, contando com 149 shows em 51 cidades ao redor do mundo e um filme-concerto exclusivo do Disney+. O filme completo da turnê e uma série documental dos bastidores serão lançados em 12 de dezembro de 2025 na plataforma Disney+.",
+        "link": "https://tstheerastour.taylorswift.com",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/f/fb/The_Eras_Tour.jpg"
+      },
+      {
+        "nome": "Taylor Swift: The Eras Tour",
+        "descricao": "Taylor Swift: The Eras Tour é um filme-concerto americano dirigido por Sam Wrench, que documenta a turnê mundial de 2023-2024 da cantora e compositora estadunidense Taylor Swift, The Eras Tour. O filme foi lançado em 3 de novembro de 2023 na plataforma Disney+.",
+        "link": "https://www.imdb.com/pt/title/tt28814949/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520eras%2520tour",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/9/95/Taylor_Swift_The_Eras_Tour_Filme.png"
+      },
+      {
+        "nome": "All Too Well: The Short Film",
+        "descricao": "All Too Well: The Short Film é um curta-metragem americano escrito e dirigido pela cantora e compositora estadunidense Taylor Swift, lançado em 12 de novembro de 2021. O filme é baseado na música 'All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)' do álbum Red (Taylor's Version) e estrela Sadie Sink e Dylan O'Brien. O curta-metragem recebeu nove prêmios, incluindo o Grammy de Melhor Videoclipe em 2023.",
+        "link": "https://www.youtube.com/watch?v=tollGa3S0o8",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/3/35/All_Too_Well_The_Short_Film_p%C3%B4ster.png"
+      },
+      {
+        "nome": "Miss Americana",
+        "descricao": "Miss Americana é um documentário americano dirigido por Lana Wilson, que explora a vida e carreira da cantora e compositora estadunidense Taylor Swift. O documentário foi lançado em 31 de janeiro de 2020 na plataforma Netflix.",
+        "link": "https://www.imdb.com/pt/title/tt11388580/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_miss%2520americana",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Taylor_Swift_-_Miss_Americana.png"
+      },
+      {
+        "nome": "Taylor Swift: reputation Stadium Tour",
+        "descricao": "Taylor Swift: reputation Stadium Tour é um filme-concerto americano dirigido por Paul Dugdale, que documenta a turnê mundial de 2018 da cantora e compositora estadunidense Taylor Swift, Reputation Stadium Tour. O filme foi lançado em 31 de dezembro de 2018 na plataforma Netflix. Atualmente, o filme não está mais disponível na plataforma.",
+        "link": "https://www.imdb.com/pt/title/tt9426852/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_reputation%2520stadiu",
+        "picture": "https://br.web.img3.acsta.net/pictures/19/01/02/11/44/5748673.jpg"
+      },
+      {
+        "nome": "Folklore: The Long Pond Studio Sessions",
+        "descricao": "Folklore: The Long Pond Studio Sessions é um filme-concerto americano dirigido por Taylor Swift, onde a cantora performa músicas do álbum Folklore em Long Pond Studio. O filme foi lançado em 25 de novembro de 2020 na plataforma Disney+.",
+        "link": "https://www.imdb.com/pt/title/tt13524234/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_long%2520pond",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/b/b5/Folklore_The_Long_Pond_Studio_Sessions_Poster.jpg"
+      },
+      {
+        "nome": "Taylor Swift: The Official Release Party of a Showgirl",
+        "descricao": "Taylor Swift: The Official Release Party of a Showgirl é um filme americano que documenta a festa de lançamento do álbum The Life of a Showgirl da cantora e compositora estadunidense Taylor Swift. O filme foi lançado nos cinemas em 3 de outubro de 2025, contando com videoclipe do single 'The Fate of Ophelia' e bastidores.",
+        "link": "https://www.imdb.com/pt/title/tt38367304/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_showgirl",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/2/26/Taylor_Swift_The_Official_Release_Party_of_a_Showgirl_poster.png"
+      },
+      {
+        "nome": "Videoclipes de Taylor Swift",
+        "descricao": "Taylor Swift possui uma vasta videografia, com mais de 60 videoclipes oficiais lançados ao longo de sua carreira. A grande maioria dos clipes estão disponíveis em seu canal oficial no YouTube.",
+        "link": "https://www.youtube.com/@TaylorSwift"
+      },
+      {
+        "nome": "Atuação",
+        "descricao": "Além de sua carreira musical, Taylor Swift também atuou em filmes e séries de televisão. Alguns de seus papéis notáveis incluem participações em 'CSI: Crime Scene Investigation', 'Valentine's Day' e 'Cats'.",
+        "link": "https://www.imdb.com/pt/name/nm2357847/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_taylor%2520swift"
+      },
+      {
+        "nome": "Prêmios e Reconhecimentos",
+        "descricao": "Taylor Swift é uma das artistas mais premiadas da indústria musical, tendo recebido inúmeros prêmios ao longo de sua carreira, incluindo vários Grammy Awards, American Music Awards, Billboard Music Awards, entre outros. Atualmente, ela detém 820 prêmios ganhos e 1.215 indicações, juntamente com 84 recordes mundiais do Guinness.",
+        "link": "https://pt.wikipedia.org/wiki/Taylor_Swift#Pr%C3%AAmios_e_indica%C3%A7%C3%B5es"
+      },
+      {
+        "nome": "Trilha Sonora",
+        "descricao": "Taylor Swift contribuiu com várias trilhas sonoras para filmes, incluindo 'Jogos Vorazes', 'Cinquenta Tons Mais Escuros' e 'Hannah Montana - O Filme'.",
+        "link": "https://www.imdb.com/pt/name/nm2357847/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_taylor%2520swift"
+      },
+      {
+        "nome": "Direção",
+        "descricao": "Taylor Swift também dirigiu vários de seus próprios videoclipes, incluindo o curta-metragem vencedor de um Grammy 'All Too Well: The Short Film'.",
+        "link": "https://www.imdb.com/pt/name/nm2357847/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_taylor%2520swift"
+      },
+      {
+        "nome": "Causas Sociais",
+        "descricao": "Taylor Swift é conhecida por seu ativismo em diversas causas socias de equidade, incluindo doações a campanhas beneficientes. Ela tem sido uma defensora dos direitos LGBTQ+, antirracismo e da educação de jovens em necessidade.",
+        "link": "https://pt.wikipedia.org/wiki/Taylor_Swift#Ativismo_e_posicionamentos"
+      },
+      {
+        "nome": "Fortnight (feat. Post Malone)",
+        "descricao": "O single principal de 'The Tortured Poets Department', uma colaboração de sucesso que mistura pop e melancolia, acompanhada por um clipe em preto e branco estilizado.",
+        "link": "https://youtu.be/q3zqJs7JUCQ?si=QL1FoS7eY_HLpyZV",
+        "picture": "https://i.ytimg.com/vi/q3zqJs7JUCQ/maxresdefault.jpg"
+      },
+      {
+        "nome": "I Can Do It With a Broken Heart",
+        "descricao": "Segundo single de 'The Tortured Poets Department' que detalha a dificuldade de realizar a The Eras Tour e sorrir para os fãs enquanto sofria uma intensa dor pessoal.",
+        "link": "https://youtu.be/Sl6en1NPTYM?si=OEpYRxw3-Zk3OW03",
+        "picture": "https://i.ytimg.com/vi/Sl6en1NPTYM/maxresdefault.jpg"
+      },
+      {
+        "nome": "The Fate of Ophelia",
+        "descricao": "Primeiro single de 'The Life of a Showgirl', é uma balada dramática que explora temas de identidade e autodescoberta, com um videoclipe cinematográfico.",
+        "link": "https://youtu.be/ko70cExuzZM?si=PeKFZ4cdQbAo00GO",
+        "picture": "https://i.ytimg.com/vi/ko70cExuzZM/maxresdefault.jpg"
+      },
+      {
+        "nome": "The Tortured Poets Department: The Anthology",
+        "descricao": "A versão estendida de 'The Tortured Poets Department', lançada como uma surpresa, adicionando 15 faixas extras e redefinindo o álbum como um álbum duplo.",
+        "link": "https://tserasarchive.taylorswift.com/ttpd",
+        "picture": "https://upload.wikimedia.org/wikipedia/pt/a/a0/The_Tortured_Poets_Department_Anthology.jpg"
+      },
+      {
+        "nome": "Taylor Swift, Pessoa do Ano (TIME)",
+        "descricao": "A revista TIME a nomeou Pessoa do Ano, destacando sua influência cultural, econômica e política sem precedentes em escala global.",
+        "link": "https://time.com/person-of-the-year/",
+        "picture": "https://time.com/ayit/images/6342806/cover.png"
+      }
+    ]
+  }
+]
